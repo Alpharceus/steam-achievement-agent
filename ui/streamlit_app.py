@@ -129,7 +129,7 @@ if selected_game:
 # Footer or About
 st.markdown(
     "<br><hr style='border:1px solid #555;'><center><small>Built with ❤️ using Streamlit and Ollama • "
-    "Not affiliated with Steam/Valve • Designed by Raman and ChatGPT</small></center>",
+    "Not affiliated with Steam/Valve • Designed by Alpharceus and ChatGPT</small></center>",
     unsafe_allow_html=True,
 )
 # --- End of Streamlit App ---
