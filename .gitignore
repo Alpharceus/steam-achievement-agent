@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+
+# VS Code config
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Steam/Achievement agent-specific
+config.py
+data/
+main.py
+
+# Log or temp files (if any in the future)
+*.log
+*.tmp
